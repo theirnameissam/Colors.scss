@@ -4,4 +4,4 @@
 ## Install
 Download it from Github and get coding.
 ## Documentation
-Visit [the website](www.nielsklom.eu/sass-colors/).
+Visit [the website](http://www.nielsklom.eu/sass-colors/).
